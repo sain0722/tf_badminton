@@ -1,7 +1,7 @@
 # tf_badminton
-Created on a Colab basis.
-Use tensorflow object detection API
-
+A project to read the in-out of badminton shuttlecock using the tensorflow object detection API  
+Created on a Colab basis.  
+Use tensorflow object detection API  
 
 ## 1. Setup
 1) drive mount
