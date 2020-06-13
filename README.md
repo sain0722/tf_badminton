@@ -1,4 +1,4 @@
-# Tensorflow API를 이용한 
+# Tensorflow API를 이용한 프로젝트
 # TF_Badminton IN-OUT Lineman Project
 A project to read the in-out of badminton shuttlecock using the tensorflow object detection API  
 Created on a Colab basis.  
